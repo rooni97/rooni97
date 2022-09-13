@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI 👋
 
 <!--
 **rooni97/rooni97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📝 Studying
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+## 🔧 Tools
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooni97)](https://github.com/rooni97/github-readme-stats)
