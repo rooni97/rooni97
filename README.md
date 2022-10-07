@@ -37,7 +37,12 @@ Here are some ideas to get you started:
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooni97)](https://github.com/rooni97/github-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rooni97)]((https://velog.io/))
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooni97)](https://github.com/rooni97/github-readme-stats) 
+-->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rooni97)]((https://velog.io/))
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooni97)](https://github.com/rooni97/github-readme-stats)
