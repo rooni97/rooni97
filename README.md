@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooni97)](https://github.com/rooni97/github-readme-stats) 
 -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rooni97)]((https://velog.io/@rooni97))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rooni97)](https://velog.io/@rooni97)
 
 
 <!--
